@@ -1150,9 +1150,9 @@ PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C029033104NLNV9A8</string>
+			<string>C07804303GUKXPGJA</string>
 			<key>ProcessorType</key>
-			<integer>0</integer>
+			<integer>1801</integer>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
@@ -1160,11 +1160,11 @@ PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Y4SZUJV3Q</string>
+			<string>C07W5PZTJYVX</string>
 			<key>SystemUUID</key>
-			<string>4BD1F340-29AB-4A92-BE38-2F8AB8B642B6</string>
+			<string>A3D986FE-3068-4827-BC98-A94ADC1448EC</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
